@@ -1,0 +1,13 @@
+# Python dependencies
+# Add your required packages here
+fastapi
+uvicorn[standard]     # ASGI server to run FastAPI
+sqlalchemy            # ORM for database
+pydantic[email]       # Data validation with email support
+python-dotenv         # Load environment variables from .env
+passlib[bcrypt]       # Password hashing
+python-jose[cryptography]   # JWT handling
+alembic               # Database migrations
+pytest                # For testing
+
+# run this file command : pip install -r requirements.txt
