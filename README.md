@@ -192,3 +192,16 @@ pytest -q
 - Protect /v1/users and add user management endpoints
 - Add Alembic migrations
 - Add CI and more test coverage
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any inquiries or support, please contact:
+- **Developer:** Ayush M Boghara
+- **Email:** [bogharaayush1124@gmail.com]
+- **GitHub:** [AyushBoghara](https://github.com/AyushBoghara)
+
+
+**© 2024-2025 Morse Code Translator Application | Powered by Modern Technologies**
+
